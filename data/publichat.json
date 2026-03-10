@@ -12,5 +12,19 @@
     "avatar_color": "#8b5cf6",
     "photo_url": "hallo",
     "created_at": "2026-03-10T15:51:39.228Z"
+  },
+  {
+    "id": "4f5a14c2-1621-4045-9523-53643b199d82",
+    "username": "xyo",
+    "message": "halo",
+    "device_id": "1eacb40c-5cc2-44a4-9975-6c355f1bd486",
+    "reply_to": null,
+    "reply_preview": null,
+    "image_url": null,
+    "audio_url": null,
+    "audio_title": null,
+    "avatar_color": "#8b5cf6",
+    "photo_url": "",
+    "created_at": "2026-03-10T15:55:49.320Z"
   }
 ]
